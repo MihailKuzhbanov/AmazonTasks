@@ -1,5 +1,5 @@
 # AmazonTasks
- Amazon Task 0
+## Task 0
 
  This is a demo task.
 
@@ -13,7 +13,7 @@ Write an efficient algorithm for the following assumptions:
 N is an integer within the range [1..100,000];
 each element of array A is an integer within the range [−1,000,000..1,000,000].
 
- Amazon task 1
+## Task 1
 
 Alice and Bob work in a beautiful orchard. There are N apple trees in the orchard. The apple trees are arranged in a row and they are numbered from 1 to N. Alice is planning to collect all the apples from K consecutive trees and Bob is planning to collect all the apples from L consecutive trees. They want to choose two disjoint segments (one consisting of K trees for Alice and the other consisting of L trees for Bob) so not to disturb each other. What is the maximum number of apples that they can collect?
 
@@ -28,7 +28,7 @@ Write an efficient algorithm for the following assumptions:
 Nis an integer within the range [2.100,000]; K and L are integers within the range [1.N - 1);
 each element of array A is an integer within the range [1.1,000,000,000).
 
-  Amazon task 2
+##  Task 2
 
 Integer V lies strictly between integers U and W if U< V<W or if U > V> W. O solution.cpp O test-input.txt A non-empty array A consisting of N Integers is given. A pair of indices (P. Q), where 0 SP<Q< N, is said to have adjacent values if no value in the array lies strictly between values A[P] and A[Q).
 For example, in array A such that: A[0] A[1] A[2] = 3 A[3] = 7 A[4] = 5 A[S] = 3 A[6] = 11 A[7] = 1 the following pairs of indices have adjacent values:
